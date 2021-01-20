@@ -1,0 +1,10 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;
+}
+
+.gambar-product {
+    background-color: #e42727;
+    border-width: 0;
+    border-radius:20px;
+}
